@@ -31,5 +31,14 @@
     "eslint-plugin-react-refresh": "^0.4.4",
     "react-router-dom": "^6.20.1",
     "vite": "^5.0.0"
+  },
+  "prettier": {
+    "singleQuote": false,
+    "tabWidth": 4,
+    "trailingComma": "none",
+    "bracketSpacing": true,
+    "bracketSameLine": false,
+    "semi": true,
+    "printWidth": 120
   }
 }
