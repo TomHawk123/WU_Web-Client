@@ -19,5 +19,14 @@
   "devDependencies": {
     "cross-env": "^7.0.3",
     "react-router-dom": "^6.20.1"
+  },
+  "prettier": {
+    "singleQuote": false,
+    "tabWidth": 4,
+    "trailingComma": "none",
+    "bracketSpacing": true,
+    "bracketSameLine": false,
+    "semi": true,
+    "printWidth": 120
   }
 }
